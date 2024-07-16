@@ -14,6 +14,6 @@ Developed a Python based program to assist user in tracking a managing personal 
 ## Technologies Used
 
 - **Python**: Developed using Python programming language, leveraging skills in Python including data manipulation and scripting.
-- **SQLite**: Utilizes SQLite database for storing expense records, ensuring lightweight and portable data management.
-- **pandas**: Employs pandas library for data analysis and manipulation, facilitating efficient handling of expense data.
-- **matplotlib**: Integrates matplotlib library for visualizing expenses with interactive pie charts, enhancing data presentation capabilities.
+- **SQLite**: Utilizes `SQLite3` database for storing expense records, ensuring lightweight and portable data management.
+- **pandas**: Employs `pandas` library for data analysis and manipulation, facilitating efficient handling of expense data.
+- **matplotlib**: Integrates `matplotlib` library for visualizing expenses with interactive pie charts, enhancing data presentation capabilities.
